@@ -1,0 +1,21 @@
+p {
+	color: blue;
+	background-color: lime;
+}
+
+.my_comp_paragraph {
+	color: rgb(214, 236, 15);
+	background-color: black;
+}
+
+.green-title {
+	background-color: #000;
+	color: green;
+	padding: 15px;
+	border: 5px solid yellow;
+}
+
+.title {
+	background-color: #000;
+	color: #fff;
+}
